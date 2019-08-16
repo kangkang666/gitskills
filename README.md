@@ -1,2 +1,4 @@
 # gitskills
 heoo
+
+dev operate
